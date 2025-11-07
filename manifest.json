@@ -1,0 +1,16 @@
+{
+  "name": "GAB FINANCIAL SOLUTIONS",
+  "short_name": "GAB Finance",
+  "description": "A comprehensive financial application to manage inventory, bank reconciliations, expenses, income, assets, liabilities, and cash flow.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
